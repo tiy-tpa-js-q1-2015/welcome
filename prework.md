@@ -7,7 +7,7 @@ We've got a lot to cover and only a few short weeks to do so. I'm going to ask t
 
 ## Requirements
 
-Review and complete the tasks below by **January 20th**. Any deliverables should be emailed to me by then. If you have any questions, please email - I'll be glad to help (though expect some good-natured shaming if you're pushing the deadline).
+Review and complete the tasks below by **January 23th**. Any deliverables should be emailed to me by then. If you have any questions, please email - I'll be glad to help (though expect some good-natured shaming if you're pushing the deadline).
 
 ## Setup
 
