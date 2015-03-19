@@ -2,8 +2,6 @@
 
 When accessing APIs, we need to be aware of [Cross-Origin Resource Sharing (CORS) limitations](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) that might be enforced by the API provider. A hacky workaround to CORS limitations is a request method called [JSONP](http://en.wikipedia.org/wiki/JSONP) that exploits `<script>` tags. Some APIs require secure keys that should never be exposed and thus require some kind of backend proxy service.
 
-While `hello.js` can get us access to lots of authenticated APIs, the following is a large list of APIs that provide a mix of public, JSONP-able, or proxy-able services:
-
 ## Social APIs
 
 - meetup - http://www.meetup.com/meetup_api/
